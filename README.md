@@ -1,0 +1,1 @@
+The Airline Reservation System is a full-stack web application designed to simplify the process of searching flights, booking tickets, and managing reservations. The system provides a user-friendly interface for customers and a secure backend to handle flight data, user details, and bookings efficiently.
